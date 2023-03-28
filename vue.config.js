@@ -16,7 +16,7 @@ module.exports = {
     ]
   },
   pwa: {
-    name: 'Vue Black Dashboard',
+    name: 'Aabenlyst',
     themeColor: '#344675',
     msTileColor: '#344675',
     appleMobileWebAppCapable: 'yes',
