@@ -1,8 +1,8 @@
-.tim-row {
+.dash-row {
   margin-bottom: 20px;
 }
 
-.tim-white-buttons {
+.dash-white-buttons {
   background-color: #777777;
 }
 
@@ -27,11 +27,11 @@
   text-transform: none;
 }
 
-.tim-row {
+.dash-row {
   padding-top: 60px;
 }
 
-.tim-row h3 {
+.dash-row h3 {
   margin-top: 0;
 }
 
