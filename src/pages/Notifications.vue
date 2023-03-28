@@ -10,11 +10,11 @@
           <span>This is a plain notification</span>
         </base-alert>
         <base-alert type="info" dismissible with-icon>
-          <span data-notify="icon" class="tim-icons icon-bell-55"></span>
+          <span data-notify="icon" class="dash-icons icon-bell-55"></span>
           <span data-notify="message">This is a notification with close button and icon.</span>
         </base-alert>
         <base-alert type="info" dismissible with-icon>
-          <span data-notify="icon" class="tim-icons icon-bell-55"></span>
+          <span data-notify="icon" class="dash-icons icon-bell-55"></span>
           <span data-notify="message">This is a notification with close button and icon and have many lines. You can see that the icon and the close button are always vertically aligned. This is a beautiful notification. So you don't have to worry about the style.</span>
         </base-alert>
       </card>
@@ -106,7 +106,7 @@
         const color = Math.floor(Math.random() * 4 + 1);
         this.$notify({
           component: NotificationTemplate,
-          icon: "tim-icons icon-bell-55",
+          icon: "dash-icons icon-bell-55",
           horizontalAlign: horizontalAlign,
           verticalAlign: verticalAlign,
           type: this.type[color],

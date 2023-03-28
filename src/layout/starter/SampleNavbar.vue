@@ -29,9 +29,9 @@
           <ul class="navbar-nav" :class="$rtl.isRTL ? 'mr-auto' : 'ml-auto'">
             <div class="search-bar input-group" @click="searchModalVisible = true">
               <!-- <input type="text" class="form-control" placeholder="Search...">
-              <div class="input-group-addon"><i class="tim-icons icon-zoom-split"></i></div> -->
+              <div class="input-group-addon"><i class="dash-icons icon-zoom-split"></i></div> -->
               <button class="btn btn-link" id="search-button" data-toggle="modal" data-target="#searchModal">
-                <i class="tim-icons icon-zoom-split"></i>
+                <i class="dash-icons icon-zoom-split"></i>
               </button>
               <!-- You can choose types of search input -->
             </div>

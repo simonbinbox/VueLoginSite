@@ -21,7 +21,7 @@ Created using IcoMoon - icomoon.io
 	base class definition
 -------------------------*/
 
-.tim-icons {
+.dash-icons {
   display: inline-block;
   font: normal normal normal 1em/1 'Nucleo';
   vertical-align: middle;
@@ -57,21 +57,21 @@ Created using IcoMoon - icomoon.io
   change icon size
 -------------------------*/
 
-.tim-icons-sm {
+.dash-icons-sm {
   font-size: 0.8em;
 }
 
-.tim-icons-lg {
+.dash-icons-lg {
   font-size: 1.2em;
 }
 
 /* absolute units */
 
-.tim-icons-16 {
+.dash-icons-16 {
   font-size: 16px;
 }
 
-.tim-icons-32 {
+.dash-icons-32 {
   font-size: 32px;
 }
 
@@ -79,12 +79,12 @@ Created using IcoMoon - icomoon.io
   add a square/circle background
 -----------------------------------*/
 
-.tim-icons-bg-square,
-.tim-icons-bg-circle {
+.dash-icons-bg-square,
+.dash-icons-bg-circle {
   padding: 0.35em;
 }
 
-.tim-icons-bg-circle {
+.dash-icons-bg-circle {
   border-radius: 50%;
 }
 
@@ -96,13 +96,13 @@ Created using IcoMoon - icomoon.io
   spinning icons
 -------------------------*/
 
-.tim-icons-is-spinning {
-  -webkit-animation: tim-icons-spin 2s infinite linear;
-  -moz-animation: tim-icons-spin 2s infinite linear;
-  animation: tim-icons-spin 2s infinite linear;
+.dash-icons-is-spinning {
+  -webkit-animation: dash-icons-spin 2s infinite linear;
+  -moz-animation: dash-icons-spin 2s infinite linear;
+  animation: dash-icons-spin 2s infinite linear;
 }
 
-@-webkit-keyframes tim-icons-spin {
+@-webkit-keyframes dash-icons-spin {
   0% {
     -webkit-transform: rotate(0deg);
   }
@@ -111,7 +111,7 @@ Created using IcoMoon - icomoon.io
   }
 }
 
-@-moz-keyframes tim-icons-spin {
+@-moz-keyframes dash-icons-spin {
   0% {
     -moz-transform: rotate(0deg);
   }
@@ -120,7 +120,7 @@ Created using IcoMoon - icomoon.io
   }
 }
 
-@keyframes tim-icons-spin {
+@keyframes dash-icons-spin {
   0% {
     -webkit-transform: rotate(0deg);
     -moz-transform: rotate(0deg);

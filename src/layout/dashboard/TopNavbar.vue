@@ -34,7 +34,7 @@
                            title-tag="a" class="nav-item">
               <a slot="title" href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="true">
                 <div class="notification d-none d-lg-block d-xl-block"></div>
-                <i class="tim-icons icon-sound-wave"></i>
+                <i class="dash-icons icon-sound-wave"></i>
                 <p class="d-lg-none">
                   New Notifications
                 </p>

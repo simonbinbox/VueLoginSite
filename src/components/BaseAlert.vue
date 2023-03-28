@@ -7,7 +7,7 @@
         <slot name="dismiss-icon">
           <button type="button" class="close" aria-label="Close" @click="dismissAlert">
                   <span aria-hidden="true">
-                    <i class="tim-icons icon-simple-remove"></i>
+                    <i class="dash-icons icon-simple-remove"></i>
                   </span>
           </button>
         </slot>

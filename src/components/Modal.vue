@@ -21,7 +21,7 @@
                       @click="closeModal"
                       data-dismiss="modal"
                       aria-label="Close">
-                <i class="tim-icons icon-simple-remove"></i>
+                <i class="dash-icons icon-simple-remove"></i>
               </button>
             </slot>
           </div>

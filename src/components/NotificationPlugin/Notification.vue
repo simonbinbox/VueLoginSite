@@ -13,7 +13,7 @@
       class="close col-xs-1"
       data-notify="dismiss"
       @click="close">
-      <i class="tim-icons icon-simple-remove"></i>
+      <i class="dash-icons icon-simple-remove"></i>
     </button>
 
     <span v-if="icon" data-notify="icon" :class="['alert-icon', icon]"></span>

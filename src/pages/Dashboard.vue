@@ -47,7 +47,7 @@
         <card type="chart">
           <template slot="header">
             <h5 class="card-category">{{$t('dashboard.totalShipments')}}</h5>
-            <h3 class="card-title"><i class="tim-icons icon-bell-55 text-primary "></i> 763,215</h3>
+            <h3 class="card-title"><i class="dash-icons icon-bell-55 text-primary "></i> 763,215</h3>
           </template>
           <div class="chart-area">
             <line-chart style="height: 100%"
@@ -64,7 +64,7 @@
         <card type="chart">
           <template slot="header">
             <h5 class="card-category">{{$t('dashboard.dailySales')}}</h5>
-            <h3 class="card-title"><i class="tim-icons icon-delivery-fast text-info "></i> 3,500€</h3>
+            <h3 class="card-title"><i class="dash-icons icon-delivery-fast text-info "></i> 3,500€</h3>
           </template>
           <div class="chart-area">
             <bar-chart style="height: 100%"
@@ -80,7 +80,7 @@
         <card type="chart">
           <template slot="header">
             <h5 class="card-category">{{$t('dashboard.completedTasks')}}</h5>
-            <h3 class="card-title"><i class="tim-icons icon-send text-success "></i> 12,100K</h3>
+            <h3 class="card-title"><i class="dash-icons icon-send text-success "></i> 12,100K</h3>
           </template>
           <div class="chart-area">
             <line-chart style="height: 100%"
