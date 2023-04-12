@@ -1,6 +1,6 @@
 {
-  "name": "vue-black-dashboard",
-  "short_name": "vue-black-dashboard",
+  "name": "aabenlyst-vue-dashboard",
+  "short_name": "aabenlyst-vue-dashboard",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
